@@ -1,4 +1,4 @@
-name: Banklogin
+name: CustomerLogin
 
 on: [push]
 
