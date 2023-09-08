@@ -1,4 +1,4 @@
-name: CustomerLogin
+name: CustomerrLogin
 
 on: [push]
 
